@@ -1,0 +1,26 @@
+{
+  "name": "digital-music-synthesizer",
+  "version": "1.0.0",
+  "description": "An interactive, browser-based audio synthesizer application built using native Web Audio API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "git add . && git commit -m 'Prepare for automated deployment'",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineetmilindnikam207-lab/Digital-Music-Synthesizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vineetmilindnikam207-lab/Digital-Music-Synthesizer/issues"
+  },
+  "homepage": "https://github.com/vineetmilindnikam207-lab/Digital-Music-Synthesizer#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
