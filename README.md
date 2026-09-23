@@ -3,7 +3,7 @@
 
 ## 🚀 Live Deployment
 The application is fully hosted and accessible on any desktop or mobile browser here:
-👉 **[Launch Virtual Synthesizer](https://vineetmilindnikam207-lab.github.io/Digital-Music-Synthesizer/)**
+👉 **[Launch Virtual Synthesizer](https://vineet-nikam.github.io/Digital-Music-Synthesizer/)**
 
 ---
 
